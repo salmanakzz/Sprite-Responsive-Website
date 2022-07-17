@@ -1,0 +1,267 @@
+
+@import url("https://fast.fonts.net/cssapi/8a04dc22-85c7-4eaf-9d7a-6b23de89105b.css");
+body{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+
+ 
+
+}
+
+
+.hebd{
+  background-color: #009b4e;
+  min-height: 90px;
+  z-index: 1;
+}
+@media (max-width:992px) {
+  .bgd{
+    text-align-last: center;
+  flex: 1 0 0%;
+ 
+  }
+  
+}
+.btnn2{
+  width: 21px;
+  height: 5px;
+}
+.ull22{
+  display: flex;
+  column-gap: 24px;
+  margin-right: 32px;
+  margin-bottom: 23px;
+}
+.btnn{
+  background-size: 18px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 30px;
+    height: 23px;
+}
+.fixww{
+  margin-right: 5px;
+margin-bottom: 6px;
+}
+@media (min-width:992px) {
+  .bggl{
+    padding-left: 32px;
+    padding-right: 32px;
+    position: sticky;
+    top: 0;
+  }
+}
+.hhf{
+  column-gap: 20px;
+}
+.hdcl{
+  margin-left: 66px;
+}
+.kds{
+  column-gap: 33px;
+  font-size: 14px;
+}
+.bbk{
+  background-image: url(/photos/sprite-hero-summer2.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 79vh;
+}
+
+.ggg{
+  background-image: url(/photos/sprite-summer-hero\ \(1\).png);
+  height: 524px;
+  background-size: cover;
+}
+.klimg{
+  width: 29vw;
+  margin-top: 10vh;
+  margin-left: 13vw;
+}
+
+.dkj{
+  margin-bottom: 97px;
+  margin-left: 13vw;
+}
+.jkll{
+  background-color: black;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 0px;
+  font-family: "FuturaBT W05 ExtraBlack Italic";
+  font-size: 21px;
+  width: 20vw;
+  height: 48px;
+}
+@media (max-width:767px) {
+  .ggg, .klimg, .dkj, .kllkk,
+   .ikj, .bhhk, .jkv, .kjmf, .jjk{
+    display: none;
+  }
+
+}
+.kllkk{
+  width: 100%;
+  margin-top: 11vh;
+}
+@media (min-width:767px) {
+  .bbk, .bhnj, .kjmf22, .kjmf33, .jjk66{
+    display: none;
+  }
+}
+.bhnj{
+  background-image: url(/photos/heat-happens-banner-mobile.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 51vh;
+ 
+}
+.bhhk{
+  background-image: url(/photos/heat-happens-banner-desktop.png);
+  height: 700px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.ljjk2{
+  background-color: black;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 0px;
+  font-family: "FuturaBT W05 ExtraBlack Italic";
+  font-size: 21px;
+  width: 13vw;
+  height: 42px;
+  margin-left: 18vw;
+  margin-bottom: 10vh;
+  padding: 0;
+}
+.dkbm{
+  margin-top: 12vh;
+  margin-right: 10vw;
+}
+.nffl2{
+  float: right;
+  margin-right: 11vw;
+  width: 36vw;
+}
+.ljjhh2{
+  background-color: black;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 0px;
+  font-family: "FuturaBT W05 ExtraBlack Italic";
+  font-size: 21px;
+  width: 35vw;
+  margin-top: 2vh;
+  margin-left: 2vh;
+  height: 42px;
+  padding: 0;
+  text-align: center;
+}
+.bhjk{
+  border: 0;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 18px;
+  width: 42px;
+  height: 32px;
+  background-color: #009b4e;
+  margin-top: 5px;
+  float: right;
+  margin-left: auto;
+}
+@media (min-width:1200px) {
+  .hfbj{
+    padding: 20%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+  }
+}
+  @media (max-width:1200px) {
+    .jkv{
+      margin-top: -292px !important;
+      margin-left: 3em !important;
+    }
+
+}
+@media (max-width:943px) {
+  .jkv{
+    margin-top: -250px !important;
+    margin-left: 3em !important;
+  }
+}
+@media (max-width:800px) {
+  .jkv{
+    margin-top: -230px !important;
+  }
+}
+.btnww{
+  
+  color: white;
+  font-size: 16px;
+  padding: 10px 40px;
+  background-color: #009b4e;
+  border-radius: 0;
+  border: 0;
+  -webkit-transition: none;
+  transition: none;
+  font-family: "FuturaBT W05 ExtraBlack Italic";
+
+}
+.bbhm{
+  width: 90%;
+  height: 31vw;
+}
+.kjmf22{
+  background-image: url(/photos/sprite-375-sip-sized-green.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 300px;
+}
+.kjmf33{
+  background-image: url(/photos/sprite-375-rpet-clear.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 300px;
+}
+.jkv{
+  margin-top: -318px;
+  margin-left: 5em;
+
+}
+.jkv{
+  margin-top: -318px;
+  margin-left: 5em;
+
+}
+.njh{
+  
+  background-color: #009b4e;
+  height: 500px;
+}
+.hjbg{
+  margin-top: 75px;
+}
+  .bbhj{
+    font-size: 15px;
+  }
+  .fdbb{
+    width: 142px;
+    height: 100px;
+  }
+  @media (max-width:767px) {
+    .njh{
+      height: 671px;;
+
+    }
+    .gbh{
+      text-align: center !important;
+      justify-content: center !important;
+    }
+    .hdbb{
+      margin-bottom: 104vh;
+    }
+  }
+  
